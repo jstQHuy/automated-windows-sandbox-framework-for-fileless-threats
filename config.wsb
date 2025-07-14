@@ -1,0 +1,21 @@
+<Configuration>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>C:\SandboxTools</HostFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\SandboxTools</SandboxFolder>
+      <ReadOnly>false</ReadOnly>
+    </MappedFolder>
+    <MappedFolder>
+      <HostFolder>C:\ps1_sample</HostFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\ps1_sample</SandboxFolder>
+      <ReadOnly>false</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+  <LogonCommand>
+    <Command>"C:\Users\WDAGUtilityAccount\Desktop\SandboxTools\autorun.bat"</Command>
+  </LogonCommand>
+  <MemoryInMB>3000</MemoryInMB>
+  <Networking>Enable</Networking>
+  <ClipboardRedirection>Enable</ClipboardRedirection>
+  <AutoLogonEnable>true</AutoLogonEnable>
+</Configuration>
