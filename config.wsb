@@ -12,7 +12,7 @@
     </MappedFolder>
   </MappedFolders>
   <LogonCommand>
-    <Command>"C:\Users\WDAGUtilityAccount\Desktop\SandboxTools\autorun.bat"</Command>
+    <Command>"C:\Users\WDAGUtilityAccount\Desktop\SandboxTools\finally.bat"</Command>
   </LogonCommand>
   <MemoryInMB>3000</MemoryInMB>
   <Networking>Enable</Networking>
