@@ -1,9 +1,9 @@
 @echo off
 setlocal enabledelayedexpansion
 
-set SOURCE_DIR=C:\ps1_sample
-set TOOL_DIR=C:\SandboxTools
-set WSB_PATH=C:\config.wsb
+set SOURCE_DIR=C:\automated-windows-sandbox-framework-for-fileless-threats-main\ps1_sample
+set TOOL_DIR=C:\automated-windows-sandbox-framework-for-fileless-threats-main\SandboxTools
+set WSB_PATH=C:\automated-windows-sandbox-framework-for-fileless-threats-main\config.wsb
 set PAYLOAD_FLAG=%TOOL_DIR%\active_payload.txt
 
 set /a index=0
