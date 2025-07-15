@@ -1,12 +1,12 @@
 <Configuration>
   <MappedFolders>
     <MappedFolder>
-      <HostFolder>C:\SandboxTools</HostFolder>
+      <HostFolder>C:\automated-windows-sandbox-framework-for-fileless-threats-main\SandboxTools</HostFolder>
       <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\SandboxTools</SandboxFolder>
       <ReadOnly>false</ReadOnly>
     </MappedFolder>
     <MappedFolder>
-      <HostFolder>C:\ps1_sample</HostFolder>
+      <HostFolder>C:\automated-windows-sandbox-framework-for-fileless-threats-main\ps1_sample</HostFolder>
       <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\ps1_sample</SandboxFolder>
       <ReadOnly>false</ReadOnly>
     </MappedFolder>
