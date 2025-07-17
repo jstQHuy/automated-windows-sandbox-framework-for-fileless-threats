@@ -105,4 +105,4 @@ for %%f in (ps1_sample\*.ps1) do (
 
 ## Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/MyNGjmM5i_o/0.jpg)](https://www.youtube.com/watch?v=MyNGjmM5i_o)
+[![Watch the demo](https://img.youtube.com/vi/UL48a5Uzgew/0.jpg)](https://www.youtube.com/watch?v=UL48a5Uzgew)
