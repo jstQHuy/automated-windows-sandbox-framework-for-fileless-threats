@@ -52,6 +52,9 @@ sandbox-project/
 
 ## 1.3 Execution Flow
 
+![Execution Flow](architecture/Execution-Flow_and_Data-Pipeline.png)
+
+
 ### Step-by-Step Process
 
 #### 🔁 `auto.bat` – Orchestrator (host)
